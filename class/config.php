@@ -9,4 +9,4 @@ class config
 }
 
 // bisa diaktifkan bisa tidak
-# echo "koneksi berhasil";
+#echo "koneksi berhasil";

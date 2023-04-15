@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <title>Konsep Modularisasi</title>
-  <link href="css/main.css" rel="stylesheet" type="text/css" />
+  <link href="main.css" rel="stylesheet" type="text/css" />
 </head>
 
 <body>

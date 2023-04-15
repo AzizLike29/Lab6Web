@@ -1,6 +1,6 @@
 <?php require("../template/sidenav.php"); ?>
 <html>
-<link href="../css/main.css" rel="stylesheet" type="text/css" />
+<link href="../template/main.css" rel="stylesheet" type="text/css" />
 
 <body>
   <div class="content">

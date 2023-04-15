@@ -13,7 +13,7 @@ $data = $database->data('tb_latihan');
 
 <head>
   <title>Daftar Mahasiswa</title>
-  <link rel="stylesheet" href="../css/main.css">
+  <link rel="stylesheet" href="../template/main.css">
 </head>
 
 <body>

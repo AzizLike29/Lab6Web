@@ -24,7 +24,7 @@ if (isset($_POST['submit'])) {
 
 <head>
   <title>Identitas Mahasiswa</title>
-  <link rel="stylesheet" href="../../css/main.css">
+  <link rel="stylesheet" href="../../template/main.css">
 </head>
 
 <body>

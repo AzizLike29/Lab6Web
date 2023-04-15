@@ -26,7 +26,7 @@ $data = $database->get("tb_latihan", "where Nim=" . $Nim);
 
 <head>
     <title>Update Data Mahasiswa</title>
-    <link rel="stylesheet" href="../../css/main.css">
+    <link rel="stylesheet" href="../../template/main.css">
 </head>
 
 <body>
