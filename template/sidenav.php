@@ -1,7 +1,5 @@
-<!DOCTYPE html>
 <html>
 
-<meta charset="UTF-8">
 <title>Konsep Modularisasi</title>
 <link href="template/main.css" rel="stylesheet" type="text/css" />
 
